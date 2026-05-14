@@ -1,7 +1,7 @@
-@Library('jenkins-shared-library') _
+@Library('jenkins-shared-library-NJP') _
 
 def configMap = [
-    project : "roboshop",
+    project : "stackly",
     component: "frontend"
 ]
 
